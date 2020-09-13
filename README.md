@@ -11,10 +11,10 @@ That codes unworking now. Please use my API.
 Free trial API.
 
 
-1. Get all football events, url: http://106.52.27.17:8789/testEv
+1. Get all football events, url: http://www.365api.space/testEv
 
 
-2. Get odds data of 1st event, url： http://106.52.27.17:8789/testFirst
+2. Get odds data of 1st event, url： http://www.365api.space/testFirst?lang=en
 
 
 3. More API data:  http://www.365api.site
@@ -30,9 +30,9 @@ Free trial API.
 可以直接试用以下接口。
 
 
-一、获取当前进行的足球赛事，地址： http://106.52.27.17:8789/testEv
+一、获取当前进行的足球赛事，地址： http://www.365api.space/testEv
 
-二、获取第一个赛事的实时赔率，地址： http://106.52.27.17:8789/testFirst
+二、获取第一个赛事的实时赔率，地址： http://www.365api.space/testFirst
 
 三、更多接口数据：  http://www.365api.site/cn/  
 
