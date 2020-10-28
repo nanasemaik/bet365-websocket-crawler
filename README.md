@@ -17,7 +17,7 @@ Free trial API.
 2. Get odds data of 1st event, url： http://www.365api.space/testFirst?lang=en
 
 
-3. More API data:  http://www.365api.site
+3. More API data:  http://www.365api.site/en/
 
 
 # 中文 
