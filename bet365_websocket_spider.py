@@ -575,4 +575,4 @@ if __name__ == '__main__':
         process_list.append(p)
         for i in process_list:
             i.join()
-        print("hello, 重启")
+        print("hello, restart")
