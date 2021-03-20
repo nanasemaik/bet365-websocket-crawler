@@ -17,7 +17,7 @@ Free trial API.
 2. Get odds data of 1st event, url： http://111.230.200.67/testFirst?lang=en
 
 
-3. More API data:  http://www.365api.site/en/
+3. More API data:  https://www.365api.site/en/
 
 
 # 中文 
@@ -34,8 +34,8 @@ Free trial API.
 
 二、获取第一个赛事的实时赔率，地址： http://111.230.200.67/testFirst
 
-三、更多接口数据：  http://www.365api.site/cn/  
+三、更多接口数据：  https://www.365api.site/cn/  
 
 # Contact
 Telegram：https://t.me/JoeBili
-cloudchat：https://cccc.tel/cc_7mzva61ess9
+
