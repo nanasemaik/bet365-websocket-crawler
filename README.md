@@ -9,13 +9,13 @@ Monitor bet365 in-play football matches odds.
 require PyExecJS,requests,autobahn,twisted. 
   
   
-  pip install PyExecJS  
+&nbsp;&nbsp;pip install PyExecJS  
 
-  pip install requests  
+&nbsp;&nbsp;pip install requests  
 
-  pip install autobahn  
+&nbsp;&nbsp;pip install autobahn  
 
-  pip install twisted
+&nbsp;&nbsp;pip install twisted
   
   
 Run bet365_websocket_spider.py and see output logs.
@@ -38,13 +38,13 @@ bet365的比赛实时比分数据、实时赔率监控.
 要求安装 PyExecJS,requests,autobahn,twisted.
   
   
-  pip install PyExecJS
+&nbsp;&nbsp;pip install PyExecJS
 
-  pip install requests  
+&nbsp;&nbsp;pip install requests  
 
-  pip install autobahn
+&nbsp;&nbsp;pip install autobahn
 
-  pip install twisted
+&nbsp;&nbsp;pip install twisted
   
   
 直接运行bet365_websocket_spider.py 即可.
