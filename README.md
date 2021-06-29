@@ -29,7 +29,7 @@ bet365的比赛实时比分数据、实时赔率监控.
 如果运行后没法正常获取365数据，可以尝试以下api接口.
 
 1. 获取当前进行的足球赛事，地址： http://www.365api.vip/b365/soccer/test/allEv
-2. 获取所有赛事大小盘实时赔率，地址： http://www.365api.vip/b365/soccer/test/oneHd2allEv/C1-G15?lang=en
+2. 获取所有赛事大小盘实时赔率，地址： http://www.365api.vip/b365/soccer/test/oneHd2allEv/C1-G15
 3. 更多数据接口和说明：  http://www.365api.site/cn/  
 
 
