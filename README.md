@@ -2,13 +2,13 @@
     
 # English version:
 
-### 一、Features：
+### 一、Introduction：
 Monitor bet365 in-play football matches odds.
 
 ### 二、Getting Started：
 Run bet365_websocket_spider.py and see output logs.
 
-### 三、Instructions：
+### 三、Note：
 If it can't get data after running, try using the following API.
 
 1. Get all live football matches, url: http://www.365api.vip/b365/soccer/test/allEv?lang=en
